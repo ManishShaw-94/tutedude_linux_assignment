@@ -7,6 +7,8 @@ Step 2: Inside test_dir, created an empty file called example.txt using **touch*
 Step 3: Renamed example.txt to renamed_example.txt using **mv**
 
 Following is the output screenshot:
+<img width="940" height="195" alt="image" src="https://github.com/user-attachments/assets/47262804-0a0a-4835-a34f-19f792a72c68" />
+
  
 **Task 2: Viewing File Contents**
 
